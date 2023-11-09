@@ -13,8 +13,8 @@ dependencies:
     sdk: flutter
   three_dart: 
     git:
-        url: https://github.com/L3odr0id/three_dart.git
-        ref: 695b58ab4ef889c4f472fb79420a36134974da5e # mobile-branch # branch name
+        url: https://github.com/ilteen/three_dart
+        ref: main
   flutter_gl:
     git:
       url: https://github.com/ilteen/flutter_gl.git
